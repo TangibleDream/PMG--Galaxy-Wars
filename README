@@ -1,0 +1,32 @@
+Galaxy Wars,  The Commodore 64 game now Adapted for Java.
+
+Directions:
+
+At the start of each game you have a "Galaxy" represented by a 20 
+by 20 space grid, or 400 spaces.
+Scattered in a random fashion across the board are 40 planets.  
+36 of the 40 planets start white representing neutral.
+3 of the planets are Yellow, Green, and Red, NPCs or aliens.
+1 Planet is Blue.  The one you control.
+
+Galaxy wars is turn based. Each turn, is broken into phases.
+
+Phase One - Battle Phase.
+
+In this phase all fleets will move one space closer to their 
+destination.
+If the fleet arrives to its destination world, and it's already 
+under its control, it stregthens its garrison.
+If the fleet arrives to its destination world, and it's owned by 
+someone else, a battle for control will occur.
+If the fleet wins, the ownership of the planet will switch to the 
+fleet owner and the remaining fleet will become the new garrison.
+
+Phase Two - Fleet Launch Phase.
+
+In this phase a player decides whether to launch a new fleet and 
+where.
+
+Phase Three - Production Phase.
+
+In this phase all planets produce ships at their production rate.
